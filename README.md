@@ -10,6 +10,8 @@
 9. 5V power source
 10. 3.3V power source
 
+!! ก่อนอัพโหลดใส่บอร์ดให้แก้ข้อมูลใน secret.h ซึ่งอยู่ใน include ก่อน !!
+
 การควบคุม Relay
 
 ตัวบอร์ด subscribe topic mac/FF:FF:FF:FF:FF:FF/# (แทนที่ FF:FF:FF:FF:FF:FF ด้วย mac address ของตัวบอร์ด)
