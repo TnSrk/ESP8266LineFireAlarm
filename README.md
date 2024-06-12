@@ -16,11 +16,11 @@
 
 สั่งเปิด Relay Channel 1 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "On" ตัวบอร์ดจะส่ง LOW ให้ขา GPIO 0
 
-สั่งเปิด Relay Channel 1 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "Off" ตัวบอร์ดจะส่ง HIGH ให้ขา GPIO 0
+สั่งปิด Relay Channel 1 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "Off" ตัวบอร์ดจะส่ง HIGH ให้ขา GPIO 0
 
 สั่งเปิด Relay Channel 2 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "OnB" ตัวบอร์ดจะส่ง LOW ให้ขา GPIO 2
 
-สั่งเปิด Relay Channel 2 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "OffB" ตัวบอร์ดจะส่ง HIGH ให้ขา GPIO 2
+สั่งปิด Relay Channel 2 ใช้ topic mac/FF:FF:FF:FF:FF:FF/cmd และส่งค่า "OffB" ตัวบอร์ดจะส่ง HIGH ให้ขา GPIO 2
 
 
 ตัวบอร์ดส่งค่าความแรงของ wifi (RSSI) ด้วยการ publish topic mac/FF:FF:FF:FF:FF:FF/signal (แทนที่ FF:FF:FF:FF:FF:FF ด้วย mac address ของตัวบอร์ด)
