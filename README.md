@@ -35,3 +35,5 @@
   t คือค่าอุณหภูมิ
   h คือค่าความชื้นสัมพัท
   mq คือค่าที่อ่านได้จาก pin ที่ต่อกับเซนเซอร์ MQ-2
+
+  https://drive.google.com/file/d/1o8txkFAcofuhNQDo_S8mbHIg1ai5x48L/view?usp=drive_link
